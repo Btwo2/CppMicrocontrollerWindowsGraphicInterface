@@ -2,6 +2,6 @@
 
 ![Imagepre](https://github.com/Btwo2/MicrocontrollerWindowsGraphicInterface/assets/110456965/f53424d3-95cf-4b1c-b669-03c8fcb4310f)
 
-An easy-to-use rudimentar graphic interface developed to record and plot data. This interface allows ploting real-time data recieved by a microcontroller and plot a graphic. We implemented additionally to the real-time plotting a recording data option, a load saved data option and allowing to choose between creating a static or a dynamic axis when recording new data. Finally, as a proof-of-concept we used Freescale Freedom FDRM-KL25Z but any microcontroller can communicate to this interface using an USB cable.
+An easy-to-use rudimentar graphic interface developed to record and plot data. This interface allows ploting real-time data recieved by a microcontroller and plot a graphic. We implemented additionally to the real-time plotting a recording data option, a load saved data option, allowing to choose between creating a static or a dynamic axis and apply some correction to the values when recording new data. Finally, as a proof-of-concept we used Freescale Freedom FDRM-KL25Z but any microcontroller can communicate to this interface using an USB cable.
 
 ![Image2](https://github.com/Btwo2/MicrocontrollerWindowsGraphicInterface/assets/110456965/2508216b-f690-476d-bbc1-92897afa2e25)
